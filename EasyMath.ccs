@@ -1,0 +1,48 @@
+<Solution>
+  <PropertyGroup Name="EasyMath" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Assets">
+          <Image Name="BACKGROUND_GAME.png" />
+          <Image Name="BG.png" />
+          <Image Name="BUTTON_CHIA.png" />
+          <Image Name="BUTTON_CHIA_1.png" />
+          <Image Name="BUTTON_CONG.png" />
+          <Image Name="BUTTON_CONG_1.png" />
+          <Image Name="BUTTON_FALSE.png" />
+          <Image Name="BUTTON_FALSE_1.png" />
+          <Image Name="BUTTON_HEART.png" />
+          <Image Name="BUTTON_HEART_1.png" />
+          <Image Name="BUTTON_HELP.png" />
+          <Image Name="BUTTON_HELP_1.png" />
+          <Image Name="BUTTON_HOME.png" />
+          <Image Name="BUTTON_HOME_1.png" />
+          <Image Name="BUTTON_NHAN.png" />
+          <Image Name="BUTTON_NHAN_1.png" />
+          <Image Name="BUTTON_PLAY.png" />
+          <Image Name="BUTTON_PLAY_1.png" />
+          <Image Name="BUTTON_RETRY.png" />
+          <Image Name="BUTTON_RETRY_1.png" />
+          <Image Name="BUTTON_STAR.png" />
+          <Image Name="BUTTON_STAR_1.png" />
+          <Image Name="BUTTON_TRU.png" />
+          <Image Name="BUTTON_TRU_1.png" />
+          <Image Name="BUTTON_TRUE.png" />
+          <Image Name="BUTTON_TRUE_1.png" />
+          <Image Name="CLOCK.png" />
+          <TTF Name="Cosmonaut.ttf" />
+          <Image Name="EASYMATH_LOGO.png" />
+          <Image Name="NAME_SCORE.png" />
+          <TTF Name="OpenSans.ttf" />
+          <Image Name="POPUP_BACKGROUND.png" />
+          <Image Name="SCORE.png" />
+        </Folder>
+        <Project Name="GameOverLayer.csd" Type="Layer" />
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Project Name="MainMenuScene.csd" Type="Scene" />
+        <Project Name="SplashScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
